@@ -1,6 +1,6 @@
 ### VARIABLES TO CHANGE - START
-PROJECT_ID=
-SERVICE_NAME=
+PROJECT_ID=adriana-martinez-pc
+SERVICE_NAME=ise-genai-adrianamartin
 ### VARIABLES TO CHANGE - END
 
 # ----------- Manual Deployment ------------ #
